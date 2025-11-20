@@ -7,9 +7,14 @@ public class PlayerMovement : MonoBehaviour
     public InputActionAsset action;
     public InputAction Player;
     public InputActionReference MoveRef;
+    public InputActionReference JumpRef;
     public Rigidbody2D rig;
     public float PlayerSpeed;
+    public float JumpForce;
     public float Direction;
+    public bool isGrounded;
+    public float coyoteTimer;
+    public float lagJumpTimer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,13 +25,40 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rig.linearVelocity = new Vector2(Direction * PlayerSpeed * Time.deltaTime, rig.linearVelocityY);
+
         MoveRef.action.started += Move;
         MoveRef.action.performed += Move;
         MoveRef.action.canceled += Move;
+        
+        JumpRef.action.started += Jump;
+        JumpRef.action.canceled += Jump;
     }
     void Update()
     {
-
+        if (coyoteTimer > 0)
+        {
+            coyoteTimer -= Time.deltaTime;
+            isGrounded = true;
+            if (coyoteTimer <= 0)
+            {
+                isGrounded = false;
+                coyoteTimer = 0;
+            }
+        }
+        
+        if (lagJumpTimer > 0)
+        {
+            lagJumpTimer -= Time.deltaTime;
+            if(isGrounded)
+            {
+                rig.AddForce(new Vector2(0f, JumpForce), ForceMode2D.Impulse);
+                lagJumpTimer = 0;
+            }
+            if (lagJumpTimer <= 0)
+            {
+                lagJumpTimer = 0;
+            }
+        }
     }
     private void OnEnable()
     { 
@@ -47,6 +79,46 @@ public class PlayerMovement : MonoBehaviour
             Direction = 0;
         }
     }
-
+    public void Jump(InputAction.CallbackContext ctx)
+    {
+        if(!ctx.canceled && isGrounded)
+        {
+            rig.AddForce(new Vector2(0f, JumpForce), ForceMode2D.Impulse);
+            isGrounded = false;
+        }
+        else if (!ctx.canceled && !isGrounded)
+        {
+            lagJumpTimer = 0.125f;
+        }
+        else if (ctx.canceled)
+        {
+            rig.AddForce(new Vector2(0f, -JumpForce), ForceMode2D.Impulse);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY == 0f)
+        {
+            isGrounded = true;
+        }
+    }
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY == 0f)
+        {
+            isGrounded = true;
+        }
+    }
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY >= 0)
+        {
+            isGrounded = false;
+        }
+        else if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY < 0)
+        {
+            coyoteTimer = 0.1f;
+        }
+    }
 }
 

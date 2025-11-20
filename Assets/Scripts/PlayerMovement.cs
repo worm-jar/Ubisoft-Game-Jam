@@ -8,9 +8,12 @@ public class PlayerMovement : MonoBehaviour
     public InputAction Player;
     public InputActionReference MoveRef;
     public InputActionReference JumpRef;
+    public InputActionReference SprintRef;
     public Rigidbody2D rig;
     public float PlayerSpeed;
     public float JumpForce;
+    public float BasePlayerSpeed;
+    public float BaseJumpForce;
     public float Direction;
     public bool isGrounded;
     public float coyoteTimer;
@@ -32,6 +35,10 @@ public class PlayerMovement : MonoBehaviour
         
         JumpRef.action.started += Jump;
         JumpRef.action.canceled += Jump;
+
+        SprintRef.action.started += Sprint;
+        SprintRef.action.performed += Sprint;
+        SprintRef.action.canceled += Sprint;
     }
     void Update()
     {
@@ -93,6 +100,19 @@ public class PlayerMovement : MonoBehaviour
         else if (ctx.canceled)
         {
             rig.AddForce(new Vector2(0f, -JumpForce), ForceMode2D.Impulse);
+        }
+    }
+    public void Sprint(InputAction.CallbackContext ctx)
+    {
+        if (!ctx.canceled)
+        {
+            PlayerSpeed = PlayerSpeed * 1.25f;
+            JumpForce = JumpForce * 0.95f;
+        }
+        if (ctx.canceled)
+        {
+            PlayerSpeed = BasePlayerSpeed;
+            JumpForce = BaseJumpForce;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)

@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public float PlayerSpeed;
     public float JumpForce;
     public float BasePlayerSpeed;
+    public static Vector2 Position;
     public float BaseJumpForce;
     public float Direction;
     public bool isGrounded;
@@ -80,11 +81,14 @@ public class PlayerMovement : MonoBehaviour
         if (!ctx.canceled)
         {
             Direction = ctx.ReadValue<float>();
+            CameraMovement.ChaseSequence = true;
         }
         else
         {
             Direction = 0;
+            CameraMovement.ChaseSequence = false;
         }
+        Position = (rig.position);
     }
     public void Jump(InputAction.CallbackContext ctx)
     {

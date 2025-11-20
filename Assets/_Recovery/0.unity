@@ -406,9 +406,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d43076ae177a374cb1ad891c76713e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraMovement
-  BaseCameraSpeed: 1
+  ChaseSequence: 0
+  BaseCameraSpeed: 350
   CameraSpeed: 0
-  CamTime: 0
+  Direction: 0
 --- !u!1001 &919319063221504604
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -417,17 +418,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2284840124284960511, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
-      propertyPath: JumpForce
-      value: 12
-      objectReference: {fileID: 0}
     - target: {fileID: 4456307881924045269, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 5029975423433250858, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
-      propertyPath: m_GravityScale
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7754037907273270689, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: m_LocalPosition.x

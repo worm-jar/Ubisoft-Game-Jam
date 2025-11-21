@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 5029975423433250858}
   - component: {fileID: 8346697473181297501}
   - component: {fileID: 2284840124284960511}
-  - component: {fileID: -4862796286940823277}
+  - component: {fileID: 366873526224152459}
+  - component: {fileID: 8183257332703450600}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -192,3 +193,38 @@ MonoBehaviour:
   isGrounded: 0
   coyoteTimer: 0
   lagJumpTimer: 0
+--- !u!114 &366873526224152459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4456307881924045269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137f545c35df66147a77e193fd929548, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HBUpdate
+  HealthImg: {fileID: 0}
+  Im0: {fileID: 21300000, guid: 3b1731404e0f565419d8e4994d6196e9, type: 3}
+  Im1: {fileID: 21300000, guid: 79ff37af4cb9b6b4e95c19d94dac390f, type: 3}
+  Im2: {fileID: 21300000, guid: 2f61fe9076203154dbc56218249c8102, type: 3}
+  Im3: {fileID: 21300000, guid: d091cf0ca7a5aba4da8d66f149bd6201, type: 3}
+  Im4: {fileID: 21300000, guid: 63393dcc7f636a240ac2b0ba40286199, type: 3}
+  Im5: {fileID: 21300000, guid: 933e5abe75cb759469c10f21a0a38b1c, type: 3}
+  Im6: {fileID: 21300000, guid: 87ada3dfe8bfa10488ae9398d8189ca3, type: 3}
+  Im7: {fileID: 21300000, guid: 7d7331201f738e84388aa7d68412caf1, type: 3}
+  Im8: {fileID: 21300000, guid: d6804fcfc6fcc404cb33bb160036b3ab, type: 3}
+  Im9: {fileID: 21300000, guid: 435c24c2512713d47a503a8c144fedc9, type: 3}
+--- !u!114 &8183257332703450600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4456307881924045269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e54b496d8eaae40803b9751fa7285c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth

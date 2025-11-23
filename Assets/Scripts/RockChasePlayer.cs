@@ -6,17 +6,19 @@ public class RockChasePlayer : MonoBehaviour
     public GameObject Player;
     public Rigidbody2D rig;
     public Vector2 launchDir;
+    public Vector2 launchDirNorm;
     public float speed;
     void Start()
     {
         Player = GameObject.Find("Player");
         rig = GetComponent<Rigidbody2D>();
         launchDir = Player.transform.position - this.gameObject.transform.position;
+        launchDirNorm = launchDir.normalized;
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        rig.linearVelocity = launchDir * speed;
+        rig.linearVelocity = launchDirNorm * speed;
     }
 }

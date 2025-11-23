@@ -19,10 +19,12 @@ public class PlayerMovement : MonoBehaviour
     public bool isGrounded;
     public float coyoteTimer;
     public float lagJumpTimer;
+    public Animator playerAnimator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
+        playerAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -81,14 +83,17 @@ public class PlayerMovement : MonoBehaviour
         if (!ctx.canceled)
         {
             Direction = ctx.ReadValue<float>();
-            CameraMovement.ChaseSequence = true;
+            playerAnimator.SetTrigger("IsWalking");
+            //CameraMovement.ChaseSequence = true;
         }
         else
         {
             Direction = 0;
-            CameraMovement.ChaseSequence = false;
+            playerAnimator.SetTrigger("StopWalking");
+            //playerAnimator.SetFloat("IdleTimer") = Time.time;
+            //CameraMovement.ChaseSequence = false;
         }
-        Position = (rig.position);
+        //Position = (rig.position);
     }
     public void Jump(InputAction.CallbackContext ctx)
     {

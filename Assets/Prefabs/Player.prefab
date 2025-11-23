@@ -15,7 +15,8 @@ GameObject:
   - component: {fileID: 2284840124284960511}
   - component: {fileID: 366873526224152459}
   - component: {fileID: 8183257332703450600}
-  m_Layer: 0
+  - component: {fileID: 7753513585474708307}
+  m_Layer: 7
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -228,3 +229,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79e54b496d8eaae40803b9751fa7285c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+--- !u!114 &7753513585474708307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4456307881924045269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0d40538e08d0a6448df490ed3d6f6c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerTakeDamage
+  rig: {fileID: 0}
+  cam: {fileID: 0}
+  CameraShake: {fileID: 0}
+  playerMovement: {fileID: 0}
+  pushForceX: 0.2
+  pushForceY: 10
+  pushTimer: 0
+  Dir: {x: 0, y: 0}

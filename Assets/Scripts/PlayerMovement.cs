@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -20,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     public float coyoteTimer;
     public float lagJumpTimer;
     public Animator playerAnimator;
+    public float WalkStopTimer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -30,6 +32,10 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     private void FixedUpdate()
     {
+        if(rig.linearVelocityY < 0f)
+        {
+            playerAnimator.SetTrigger("JumpDown");
+        }
         rig.linearVelocity = new Vector2(Direction * PlayerSpeed * Time.deltaTime, rig.linearVelocityY);
 
         MoveRef.action.started += Move;
@@ -62,6 +68,7 @@ public class PlayerMovement : MonoBehaviour
             if(isGrounded)
             {
                 rig.AddForce(new Vector2(0f, JumpForce), ForceMode2D.Impulse);
+                playerAnimator.SetTrigger("JumpUp");
                 lagJumpTimer = 0;
             }
             if (lagJumpTimer <= 0)
@@ -90,7 +97,6 @@ public class PlayerMovement : MonoBehaviour
         {
             Direction = 0;
             playerAnimator.SetTrigger("StopWalking");
-            //playerAnimator.SetFloat("IdleTimer") = Time.time;
             //CameraMovement.ChaseSequence = false;
         }
         //Position = (rig.position);
@@ -99,6 +105,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(!ctx.canceled && isGrounded)
         {
+            playerAnimator.SetTrigger("JumpUp");
             rig.AddForce(new Vector2(0f, JumpForce), ForceMode2D.Impulse);
             isGrounded = false;
         }
@@ -108,6 +115,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (ctx.canceled)
         {
+            playerAnimator.SetTrigger("JumpDown");
             rig.AddForce(new Vector2(0f, -JumpForce), ForceMode2D.Impulse);
         }
     }
@@ -117,11 +125,13 @@ public class PlayerMovement : MonoBehaviour
         {
             PlayerSpeed = PlayerSpeed * 1.25f;
             JumpForce = JumpForce * 0.95f;
+            playerAnimator.SetTrigger("IsRunning");
         }
         if (ctx.canceled)
         {
             PlayerSpeed = BasePlayerSpeed;
             JumpForce = BaseJumpForce;
+            playerAnimator.SetTrigger("StopRunning");
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -129,6 +139,7 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY == 0f)
         {
             isGrounded = true;
+            playerAnimator.SetTrigger("IsGrounded");
         }
     }
     private void OnCollisionStay2D(Collision2D collision)
@@ -136,6 +147,7 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground") && rig.linearVelocityY == 0f)
         {
             isGrounded = true;
+            playerAnimator.SetTrigger("IsGrounded");
         }
     }
     private void OnCollisionExit2D(Collision2D collision)

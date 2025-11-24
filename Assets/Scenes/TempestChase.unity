@@ -268,10 +268,18 @@ PrefabInstance:
       propertyPath: HealthImg
       value: 
       objectReference: {fileID: 1942802650}
+    - target: {fileID: 2365482273238600167, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 46f91ed73113a474799c5d2c00f13f35, type: 2}
     - target: {fileID: 4456307881924045269, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6906646922453473639, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6985509121372102975, guid: 16215da970200454ba660e5e823f9711, type: 3}
     - target: {fileID: 7754037907273270689, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.12

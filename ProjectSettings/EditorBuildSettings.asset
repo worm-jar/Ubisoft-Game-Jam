@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: becd4fca332f82a4caca5bf2c9661fff
   - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: 411721032ab99ab42987efc33a76dced
+  - enabled: 1
     path: Assets/Scenes/TempestChase.unity
     guid: 89a5b57d806fb7943ba0d3ad4d79b7e0
   - enabled: 1

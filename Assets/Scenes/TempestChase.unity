@@ -943,6 +943,14 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 6906646922453473639, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906646922453473639, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906646922453473639, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6985509121372102975, guid: 16215da970200454ba660e5e823f9711, type: 3}
@@ -1501,7 +1509,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1228062707
 Transform:
   m_ObjectHideFlags: 0

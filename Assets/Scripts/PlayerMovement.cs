@@ -1,5 +1,6 @@
 using JetBrains.Annotations;
 using Unity.VisualScripting;
+using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -22,11 +23,14 @@ public class PlayerMovement : MonoBehaviour
     public float lagJumpTimer;
     public Animator playerAnimator;
     public float WalkStopTimer;
+    private SpriteRenderer spriteRenderer;
+    private bool facingRight = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
         playerAnimator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -51,6 +55,14 @@ public class PlayerMovement : MonoBehaviour
     }
     void Update()
     {
+        float swapSide = Input.GetAxisRaw("Horizontal");
+        if (swapSide < 0 && facingRight)
+            Flip();
+        else if (swapSide > 0 && !facingRight)
+            Flip();
+
+
+
         if (coyoteTimer > 0)
         {
             coyoteTimer -= Time.deltaTime;
@@ -77,6 +89,13 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
+
+    void Flip()
+    {
+        facingRight = !facingRight;
+        spriteRenderer.flipX = !spriteRenderer.flipX;
+    }
+
     private void OnEnable()
     { 
         action.Enable();

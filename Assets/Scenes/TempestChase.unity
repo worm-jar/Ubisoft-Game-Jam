@@ -545,8 +545,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2739681771311602073, guid: 85a4d64285dc2e7488339fe4b682ecd0, type: 3}
+      propertyPath: origPos.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739681771311602073, guid: 85a4d64285dc2e7488339fe4b682ecd0, type: 3}
       propertyPath: shakeForce
       value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 2739681771311602073, guid: 85a4d64285dc2e7488339fe4b682ecd0, type: 3}
+      propertyPath: shakeTimer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2960492631966600763, guid: 85a4d64285dc2e7488339fe4b682ecd0, type: 3}
       propertyPath: m_LocalPosition.x

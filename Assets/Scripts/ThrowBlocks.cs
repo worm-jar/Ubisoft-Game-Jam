@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ThrowBlocks : MonoBehaviour
@@ -9,7 +10,7 @@ public class ThrowBlocks : MonoBehaviour
     public GameObject Block;
     public float randNum;
     public Vector2 SpawnPos;
-    [SerializeField] public Sprite[] Sprites;
+    
     void Start()
     {
         StartCoroutine(LauchBlocksWait());

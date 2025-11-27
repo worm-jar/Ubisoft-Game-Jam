@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2cbed130720be4f46948cdeb5d1f1d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 917624841327003581
+    second: proprio_GoodEnd%20SpriteSheet_0
+  - first:
+      213: 8669637855436588181
+    second: proprio_GoodEnd%20SpriteSheet_1
+  - first:
+      213: 3148336566883844610
+    second: proprio_GoodEnd%20SpriteSheet_2
+  - first:
+      213: 2327539784955301533
+    second: proprio_GoodEnd%20SpriteSheet_3
+  - first:
+      213: 6495888082940736179
+    second: proprio_GoodEnd%20SpriteSheet_4
+  - first:
+      213: 7535463922165286718
+    second: proprio_GoodEnd%20SpriteSheet_5
+  - first:
+      213: -8686503289760976731
+    second: proprio_GoodEnd%20SpriteSheet_6
+  - first:
+      213: 3742750952075724794
+    second: proprio_GoodEnd%20SpriteSheet_7
+  - first:
+      213: 445493133893041608
+    second: proprio_GoodEnd%20SpriteSheet_8
+  - first:
+      213: 8933468410591894595
+    second: proprio_GoodEnd%20SpriteSheet_9
+  - first:
+      213: 7718122371756154419
+    second: proprio_GoodEnd%20SpriteSheet_10
+  - first:
+      213: 2052093787329364803
+    second: proprio_GoodEnd%20SpriteSheet_11
+  - first:
+      213: 805926738400875334
+    second: proprio_GoodEnd%20SpriteSheet_12
+  - first:
+      213: -4078413286231814713
+    second: proprio_GoodEnd%20SpriteSheet_13
+  - first:
+      213: 7320953116278171503
+    second: proprio_GoodEnd%20SpriteSheet_14
+  - first:
+      213: 56087554134895878
+    second: proprio_GoodEnd%20SpriteSheet_15
+  - first:
+      213: -4550677246995580023
+    second: proprio_GoodEnd%20SpriteSheet_16
+  - first:
+      213: -7589794981475293464
+    second: proprio_GoodEnd%20SpriteSheet_17
+  - first:
+      213: -3237539248745808676
+    second: proprio_GoodEnd%20SpriteSheet_18
+  - first:
+      213: -8367873106855351601
+    second: proprio_GoodEnd%20SpriteSheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5955
+        width: 1297
+        height: 1479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ce507eee0cbc00800000000000000
+      internalID: 917624841327003581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 5953
+        width: 1300
+        height: 1478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c39022bdb05870800000000000000
+      internalID: 8669637855436588181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 5952
+        width: 1300
+        height: 1475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020c7e4d6321bb20800000000000000
+      internalID: 3148336566883844610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 5951
+        width: 1296
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e89d24a151d4020800000000000000
+      internalID: 2327539784955301533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 8024
+        y: 5951
+        width: 1300
+        height: 1466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b230647bc7062a50800000000000000
+      internalID: 6495888082940736179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4030
+        width: 1301
+        height: 1463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370f6a3388539860800000000000000
+      internalID: 7535463922165286718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 4031
+        width: 1300
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f881f747537780800000000000000
+      internalID: -8686503289760976731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 4031
+        width: 1300
+        height: 1455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78a35392ce0f330800000000000000
+      internalID: 3742750952075724794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 4032
+        width: 1299
+        height: 1450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdf19b15a5be2600800000000000000
+      internalID: 445493133893041608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 8068
+        y: 4033
+        width: 1300
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cd089103e0afb70800000000000000
+      internalID: 8933468410591894595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2115
+        width: 1300
+        height: 1438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e558d97674c1b60800000000000000
+      internalID: 7718122371756154419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2115
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3438d875d608a7c10800000000000000
+      internalID: 2052093787329364803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 2115
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6439f5d391a3f2b00800000000000000
+      internalID: 805926738400875334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 2115
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd4bea79b09667c0800000000000000
+      internalID: -4078413286231814713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 8087
+        y: 2115
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ac093210499560800000000000000
+      internalID: 7320953116278171503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 195
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de784555347c000800000000000000
+      internalID: 56087554134895878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 195
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3065872fb8d0c0800000000000000
+      internalID: -4550677246995580023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 195
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66f134da1aba690800000000000000
+      internalID: -7589794981475293464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 195
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcfe1cd433f113d0800000000000000
+      internalID: -3237539248745808676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_GoodEnd%20SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 8087
+        y: 195
+        width: 1297
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa7548eb75fdb80800000000000000
+      internalID: -8367873106855351601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      proprio_GoodEnd%20SpriteSheet_0: 917624841327003581
+      proprio_GoodEnd%20SpriteSheet_1: 8669637855436588181
+      proprio_GoodEnd%20SpriteSheet_10: 7718122371756154419
+      proprio_GoodEnd%20SpriteSheet_11: 2052093787329364803
+      proprio_GoodEnd%20SpriteSheet_12: 805926738400875334
+      proprio_GoodEnd%20SpriteSheet_13: -4078413286231814713
+      proprio_GoodEnd%20SpriteSheet_14: 7320953116278171503
+      proprio_GoodEnd%20SpriteSheet_15: 56087554134895878
+      proprio_GoodEnd%20SpriteSheet_16: -4550677246995580023
+      proprio_GoodEnd%20SpriteSheet_17: -7589794981475293464
+      proprio_GoodEnd%20SpriteSheet_18: -3237539248745808676
+      proprio_GoodEnd%20SpriteSheet_19: -8367873106855351601
+      proprio_GoodEnd%20SpriteSheet_2: 3148336566883844610
+      proprio_GoodEnd%20SpriteSheet_3: 2327539784955301533
+      proprio_GoodEnd%20SpriteSheet_4: 6495888082940736179
+      proprio_GoodEnd%20SpriteSheet_5: 7535463922165286718
+      proprio_GoodEnd%20SpriteSheet_6: -8686503289760976731
+      proprio_GoodEnd%20SpriteSheet_7: 3742750952075724794
+      proprio_GoodEnd%20SpriteSheet_8: 445493133893041608
+      proprio_GoodEnd%20SpriteSheet_9: 8933468410591894595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

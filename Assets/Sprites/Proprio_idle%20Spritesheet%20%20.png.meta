@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: ce5080bb8abaef542910580fb8901e67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9054251340718912786
+    second: Proprio_idle%20Spritesheet%20%20_0
+  - first:
+      213: 8184343209115923441
+    second: Proprio_idle%20Spritesheet%20%20_1
+  - first:
+      213: 5845122966198513801
+    second: Proprio_idle%20Spritesheet%20%20_2
+  - first:
+      213: 3297022778012504502
+    second: Proprio_idle%20Spritesheet%20%20_3
+  - first:
+      213: 3963368213867061504
+    second: Proprio_idle%20Spritesheet%20%20_4
+  - first:
+      213: 5898241713366561758
+    second: Proprio_idle%20Spritesheet%20%20_5
+  - first:
+      213: -5596339907020392361
+    second: Proprio_idle%20Spritesheet%20%20_6
+  - first:
+      213: 1359501017649656893
+    second: Proprio_idle%20Spritesheet%20%20_7
+  - first:
+      213: -7089841176826855501
+    second: Proprio_idle%20Spritesheet%20%20_8
+  - first:
+      213: 5589373736988297171
+    second: Proprio_idle%20Spritesheet%20%20_9
+  - first:
+      213: 7700106160298101862
+    second: Proprio_idle%20Spritesheet%20%20_10
+  - first:
+      213: -6831616167425689741
+    second: Proprio_idle%20Spritesheet%20%20_11
+  - first:
+      213: 472317788981557
+    second: Proprio_idle%20Spritesheet%20%20_12
+  - first:
+      213: -3665835399365647150
+    second: Proprio_idle%20Spritesheet%20%20_13
+  - first:
+      213: 8014246168338106580
+    second: Proprio_idle%20Spritesheet%20%20_14
+  - first:
+      213: -998903441332668483
+    second: Proprio_idle%20Spritesheet%20%20_15
+  - first:
+      213: 6311082847833968594
+    second: Proprio_idle%20Spritesheet%20%20_16
+  - first:
+      213: -2443431203657981471
+    second: Proprio_idle%20Spritesheet%20%20_17
+  - first:
+      213: -8236206301076377367
+    second: Proprio_idle%20Spritesheet%20%20_18
+  - first:
+      213: 475179985913176760
+    second: Proprio_idle%20Spritesheet%20%20_19
+  - first:
+      213: -7323249484227500464
+    second: Proprio_idle%20Spritesheet%20%20_20
+  - first:
+      213: 6170628495812760858
+    second: Proprio_idle%20Spritesheet%20%20_21
+  - first:
+      213: 5461990360150064154
+    second: Proprio_idle%20Spritesheet%20%20_22
+  - first:
+      213: -2679516977324782923
+    second: Proprio_idle%20Spritesheet%20%20_23
+  - first:
+      213: -5453816903945896840
+    second: Proprio_idle%20Spritesheet%20%20_24
+  - first:
+      213: -3378184905970977473
+    second: Proprio_idle%20Spritesheet%20%20_25
+  - first:
+      213: -7117422531207386177
+    second: Proprio_idle%20Spritesheet%20%20_26
+  - first:
+      213: -3188206629576807388
+    second: Proprio_idle%20Spritesheet%20%20_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215b7a67f9927ad70800000000000000
+      internalID: 9054251340718912786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33c3349c0a49170800000000000000
+      internalID: 8184343209115923441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9807db47e5c0e1150800000000000000
+      internalID: 5845122966198513801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b19ecb8fb061cd20800000000000000
+      internalID: 3297022778012504502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ee954466b00730800000000000000
+      internalID: 3963368213867061504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3fa9c8693cad150800000000000000
+      internalID: 5898241713366561758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f4b7518ec552b0800000000000000
+      internalID: -5596339907020392361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343accf8faedd210800000000000000
+      internalID: 1359501017649656893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3c456303db9d90800000000000000
+      internalID: -7089841176826855501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_9
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c51eccc1719d40800000000000000
+      internalID: 5589373736988297171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8d5181c54cda60800000000000000
+      internalID: 7700106160298101862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377b6ca8a493131a0800000000000000
+      internalID: -6831616167425689741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539880e029da10000800000000000000
+      internalID: 472317788981557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_13
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d422cf6026502dc0800000000000000
+      internalID: -3665835399365647150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d80456cd62583f60800000000000000
+      internalID: 8014246168338106580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7737ecc9e2322f0800000000000000
+      internalID: -998903441332668483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df443d9968759750800000000000000
+      internalID: 6311082847833968594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e16cd02440371ed0800000000000000
+      internalID: -2443431203657981471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e03287a10e13bd80800000000000000
+      internalID: -8236206301076377367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2eab8fdad289600800000000000000
+      internalID: 475179985913176760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ae03f4679e5a90800000000000000
+      internalID: -7323249484227500464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1592dd6ce972a550800000000000000
+      internalID: 6170628495812760858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_22
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c3a5f2b43eccb40800000000000000
+      internalID: 5461990360150064154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_23
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba8dec718170dad0800000000000000
+      internalID: -2679516977324782923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_24
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cb842eb662054b0800000000000000
+      internalID: -5453816903945896840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357306f9b64e11d0800000000000000
+      internalID: -3378184905970977473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_26
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba507eae5d93d90800000000000000
+      internalID: -7117422531207386177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proprio_idle%20Spritesheet%20%20_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c678556f631c3d0800000000000000
+      internalID: -3188206629576807388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24410157c7f5b344483e9ac9a4de321e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1920.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Proprio_idle%20Spritesheet%20%20_0: 9054251340718912786
+      Proprio_idle%20Spritesheet%20%20_1: 8184343209115923441
+      Proprio_idle%20Spritesheet%20%20_10: 7700106160298101862
+      Proprio_idle%20Spritesheet%20%20_11: -6831616167425689741
+      Proprio_idle%20Spritesheet%20%20_12: 472317788981557
+      Proprio_idle%20Spritesheet%20%20_13: -3665835399365647150
+      Proprio_idle%20Spritesheet%20%20_14: 8014246168338106580
+      Proprio_idle%20Spritesheet%20%20_15: -998903441332668483
+      Proprio_idle%20Spritesheet%20%20_16: 6311082847833968594
+      Proprio_idle%20Spritesheet%20%20_17: -2443431203657981471
+      Proprio_idle%20Spritesheet%20%20_18: -8236206301076377367
+      Proprio_idle%20Spritesheet%20%20_19: 475179985913176760
+      Proprio_idle%20Spritesheet%20%20_2: 5845122966198513801
+      Proprio_idle%20Spritesheet%20%20_20: -7323249484227500464
+      Proprio_idle%20Spritesheet%20%20_21: 6170628495812760858
+      Proprio_idle%20Spritesheet%20%20_22: 5461990360150064154
+      Proprio_idle%20Spritesheet%20%20_23: -2679516977324782923
+      Proprio_idle%20Spritesheet%20%20_24: -5453816903945896840
+      Proprio_idle%20Spritesheet%20%20_25: -3378184905970977473
+      Proprio_idle%20Spritesheet%20%20_26: -7117422531207386177
+      Proprio_idle%20Spritesheet%20%20_27: -3188206629576807388
+      Proprio_idle%20Spritesheet%20%20_3: 3297022778012504502
+      Proprio_idle%20Spritesheet%20%20_4: 3963368213867061504
+      Proprio_idle%20Spritesheet%20%20_5: 5898241713366561758
+      Proprio_idle%20Spritesheet%20%20_6: -5596339907020392361
+      Proprio_idle%20Spritesheet%20%20_7: 1359501017649656893
+      Proprio_idle%20Spritesheet%20%20_8: -7089841176826855501
+      Proprio_idle%20Spritesheet%20%20_9: 5589373736988297171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1341 @@
+fileFormatVersion: 2
+guid: 531cd108933164145b630bd364eb34f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3950536349025737975
+    second: proprio_BadEnd%20SpriteSheet%20_0
+  - first:
+      213: -8454677742080217261
+    second: proprio_BadEnd%20SpriteSheet%20_1
+  - first:
+      213: 5707293681053027171
+    second: proprio_BadEnd%20SpriteSheet%20_2
+  - first:
+      213: 5792954082929098666
+    second: proprio_BadEnd%20SpriteSheet%20_3
+  - first:
+      213: -4740773880223071443
+    second: proprio_BadEnd%20SpriteSheet%20_4
+  - first:
+      213: 8977973123584214143
+    second: proprio_BadEnd%20SpriteSheet%20_5
+  - first:
+      213: 7077544471382862810
+    second: proprio_BadEnd%20SpriteSheet%20_6
+  - first:
+      213: -4961243626951837901
+    second: proprio_BadEnd%20SpriteSheet%20_7
+  - first:
+      213: -7912375876021685601
+    second: proprio_BadEnd%20SpriteSheet%20_8
+  - first:
+      213: -2607376861254117642
+    second: proprio_BadEnd%20SpriteSheet%20_9
+  - first:
+      213: -4056354796625852375
+    second: proprio_BadEnd%20SpriteSheet%20_10
+  - first:
+      213: -5028875252766614175
+    second: proprio_BadEnd%20SpriteSheet%20_11
+  - first:
+      213: 3334396772306631097
+    second: proprio_BadEnd%20SpriteSheet%20_12
+  - first:
+      213: 5871581327965745912
+    second: proprio_BadEnd%20SpriteSheet%20_13
+  - first:
+      213: 6908764034083223756
+    second: proprio_BadEnd%20SpriteSheet%20_14
+  - first:
+      213: 2003828171489672323
+    second: proprio_BadEnd%20SpriteSheet%20_15
+  - first:
+      213: 3332019187629231120
+    second: proprio_BadEnd%20SpriteSheet%20_16
+  - first:
+      213: -8496047676780528167
+    second: proprio_BadEnd%20SpriteSheet%20_17
+  - first:
+      213: 4601061768425551029
+    second: proprio_BadEnd%20SpriteSheet%20_18
+  - first:
+      213: 2751279943633082625
+    second: proprio_BadEnd%20SpriteSheet%20_19
+  - first:
+      213: 5023533029487586807
+    second: proprio_BadEnd%20SpriteSheet%20_20
+  - first:
+      213: 4109524261252334334
+    second: proprio_BadEnd%20SpriteSheet%20_21
+  - first:
+      213: 2785733808067462542
+    second: proprio_BadEnd%20SpriteSheet%20_22
+  - first:
+      213: 226028149685109503
+    second: proprio_BadEnd%20SpriteSheet%20_23
+  - first:
+      213: 2901113970935591860
+    second: proprio_BadEnd%20SpriteSheet%20_24
+  - first:
+      213: 3789328107524131721
+    second: proprio_BadEnd%20SpriteSheet%20_25
+  - first:
+      213: -5861930110131180501
+    second: proprio_BadEnd%20SpriteSheet%20_26
+  - first:
+      213: 1482944754453764286
+    second: proprio_BadEnd%20SpriteSheet%20_27
+  - first:
+      213: -9220629042005736711
+    second: proprio_BadEnd%20SpriteSheet%20_28
+  - first:
+      213: 4012109246437321074
+    second: proprio_BadEnd%20SpriteSheet%20_29
+  - first:
+      213: 127948504939612246
+    second: proprio_BadEnd%20SpriteSheet%20_30
+  - first:
+      213: 5102142349569677379
+    second: proprio_BadEnd%20SpriteSheet%20_31
+  - first:
+      213: 2080455768347714196
+    second: proprio_BadEnd%20SpriteSheet%20_32
+  - first:
+      213: 4998114694757622770
+    second: proprio_BadEnd%20SpriteSheet%20_33
+  - first:
+      213: 4707672472134305113
+    second: proprio_BadEnd%20SpriteSheet%20_34
+  - first:
+      213: -7854754708795389990
+    second: proprio_BadEnd%20SpriteSheet%20_35
+  - first:
+      213: 2253780580285635768
+    second: proprio_BadEnd%20SpriteSheet%20_36
+  - first:
+      213: -110975473514421123
+    second: proprio_BadEnd%20SpriteSheet%20_37
+  - first:
+      213: 3245808851293122422
+    second: proprio_BadEnd%20SpriteSheet%20_38
+  - first:
+      213: 6895872470792931136
+    second: proprio_BadEnd%20SpriteSheet%20_39
+  - first:
+      213: 6103296486850755483
+    second: proprio_BadEnd%20SpriteSheet%20_40
+  - first:
+      213: -4770458059149912183
+    second: proprio_BadEnd%20SpriteSheet%20_41
+  - first:
+      213: 7420850577054083570
+    second: proprio_BadEnd%20SpriteSheet%20_42
+  - first:
+      213: -1664735614185801535
+    second: proprio_BadEnd%20SpriteSheet%20_43
+  - first:
+      213: 8780339436878247598
+    second: proprio_BadEnd%20SpriteSheet%20_44
+  - first:
+      213: -1508384458447689100
+    second: proprio_BadEnd%20SpriteSheet%20_45
+  - first:
+      213: 8627035047834945833
+    second: proprio_BadEnd%20SpriteSheet%20_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 8
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9036d041f10ec29c0800000000000000
+      internalID: -3950536349025737975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f28ec6363faaa80800000000000000
+      internalID: -8454677742080217261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4ff74d51643f40800000000000000
+      internalID: 5707293681053027171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3329cb05b46050800000000000000
+      internalID: 5792954082929098666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238adc0643653eb0800000000000000
+      internalID: -4740773880223071443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_5
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74cd321dfa289c70800000000000000
+      internalID: 8977973123584214143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_6
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2ec2c23d783260800000000000000
+      internalID: 7077544471382862810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_7
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 12000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377d53053f162bb0800000000000000
+      internalID: -4961243626951837901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f927b54ff08913290800000000000000
+      internalID: -7912375876021685601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f610652f8cb0dbd0800000000000000
+      internalID: -2607376861254117642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9280a20ddcee4b7c0800000000000000
+      internalID: -4056354796625852375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_11
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd71b0a98d53ab0800000000000000
+      internalID: -5028875252766614175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_12
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9bb81b238264e20800000000000000
+      internalID: 3334396772306631097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_13
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f63bdb1c0c7150800000000000000
+      internalID: 5871581327965745912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_14
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc87688e84cd0ef50800000000000000
+      internalID: 6908764034083223756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_15
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 10000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cff80fa170fcb10800000000000000
+      internalID: 2003828171489672323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0d6f1cc5bd3e20800000000000000
+      internalID: 3332019187629231120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddb6b6e6a9f71a80800000000000000
+      internalID: -8496047676780528167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_18
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b2a80d414adf30800000000000000
+      internalID: 4601061768425551029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_19
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10918e528828e2620800000000000000
+      internalID: 2751279943633082625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_20
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdac0cacac27b540800000000000000
+      internalID: 5023533029487586807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_21
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef28bcbda86f70930800000000000000
+      internalID: 4109524261252334334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_22
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8548a4932ae8a620800000000000000
+      internalID: 2785733808067462542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_23
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff248339763032300800000000000000
+      internalID: 226028149685109503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3f98a29c3d24820800000000000000
+      internalID: 2901113970935591860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b016a46d5669430800000000000000
+      internalID: 3789328107524131721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce6776f9d36aea0800000000000000
+      internalID: -5861930110131180501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_27
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8debea56a749410800000000000000
+      internalID: 1482944754453764286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_28
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f209914dbeb90080800000000000000
+      internalID: -9220629042005736711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_29
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e4f14a10eda730800000000000000
+      internalID: 4012109246437321074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_30
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658c772cc7096c100800000000000000
+      internalID: 127948504939612246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_31
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d3934f637ec640800000000000000
+      internalID: 5102142349569677379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922743af734fdc10800000000000000
+      internalID: 2080455768347714196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_33
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f320bf65dedc5540800000000000000
+      internalID: 4998114694757622770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_34
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955437ccb23055140800000000000000
+      internalID: 4707672472134305113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_35
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78c68653e4ef290800000000000000
+      internalID: -7854754708795389990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_36
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc59992f79074f10800000000000000
+      internalID: 2253780580285635768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_37
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746462156cb57ef0800000000000000
+      internalID: -110975473514421123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_38
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f252604fd6b0d20800000000000000
+      internalID: 3245808851293122422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_39
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047020ee97f03bf50800000000000000
+      internalID: 6895872470792931136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bf0a171d343b450800000000000000
+      internalID: 6103296486850755483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_41
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98758709badebcdb0800000000000000
+      internalID: -4770458059149912183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_42
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9af8058482cf660800000000000000
+      internalID: 7420850577054083570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_43
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8738f67cba5e8e0800000000000000
+      internalID: -1664735614185801535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_44
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea63b7692380ad970800000000000000
+      internalID: 8780339436878247598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_45
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a6189a354211be0800000000000000
+      internalID: -1508384458447689100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proprio_BadEnd%20SpriteSheet%20_46
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9290c030ba269b770800000000000000
+      internalID: 8627035047834945833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e876d15461f4d64ea9c44cbf7eb71c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      proprio_BadEnd%20SpriteSheet%20_0: -3950536349025737975
+      proprio_BadEnd%20SpriteSheet%20_1: -8454677742080217261
+      proprio_BadEnd%20SpriteSheet%20_10: -4056354796625852375
+      proprio_BadEnd%20SpriteSheet%20_11: -5028875252766614175
+      proprio_BadEnd%20SpriteSheet%20_12: 3334396772306631097
+      proprio_BadEnd%20SpriteSheet%20_13: 5871581327965745912
+      proprio_BadEnd%20SpriteSheet%20_14: 6908764034083223756
+      proprio_BadEnd%20SpriteSheet%20_15: 2003828171489672323
+      proprio_BadEnd%20SpriteSheet%20_16: 3332019187629231120
+      proprio_BadEnd%20SpriteSheet%20_17: -8496047676780528167
+      proprio_BadEnd%20SpriteSheet%20_18: 4601061768425551029
+      proprio_BadEnd%20SpriteSheet%20_19: 2751279943633082625
+      proprio_BadEnd%20SpriteSheet%20_2: 5707293681053027171
+      proprio_BadEnd%20SpriteSheet%20_20: 5023533029487586807
+      proprio_BadEnd%20SpriteSheet%20_21: 4109524261252334334
+      proprio_BadEnd%20SpriteSheet%20_22: 2785733808067462542
+      proprio_BadEnd%20SpriteSheet%20_23: 226028149685109503
+      proprio_BadEnd%20SpriteSheet%20_24: 2901113970935591860
+      proprio_BadEnd%20SpriteSheet%20_25: 3789328107524131721
+      proprio_BadEnd%20SpriteSheet%20_26: -5861930110131180501
+      proprio_BadEnd%20SpriteSheet%20_27: 1482944754453764286
+      proprio_BadEnd%20SpriteSheet%20_28: -9220629042005736711
+      proprio_BadEnd%20SpriteSheet%20_29: 4012109246437321074
+      proprio_BadEnd%20SpriteSheet%20_3: 5792954082929098666
+      proprio_BadEnd%20SpriteSheet%20_30: 127948504939612246
+      proprio_BadEnd%20SpriteSheet%20_31: 5102142349569677379
+      proprio_BadEnd%20SpriteSheet%20_32: 2080455768347714196
+      proprio_BadEnd%20SpriteSheet%20_33: 4998114694757622770
+      proprio_BadEnd%20SpriteSheet%20_34: 4707672472134305113
+      proprio_BadEnd%20SpriteSheet%20_35: -7854754708795389990
+      proprio_BadEnd%20SpriteSheet%20_36: 2253780580285635768
+      proprio_BadEnd%20SpriteSheet%20_37: -110975473514421123
+      proprio_BadEnd%20SpriteSheet%20_38: 3245808851293122422
+      proprio_BadEnd%20SpriteSheet%20_39: 6895872470792931136
+      proprio_BadEnd%20SpriteSheet%20_4: -4740773880223071443
+      proprio_BadEnd%20SpriteSheet%20_40: 6103296486850755483
+      proprio_BadEnd%20SpriteSheet%20_41: -4770458059149912183
+      proprio_BadEnd%20SpriteSheet%20_42: 7420850577054083570
+      proprio_BadEnd%20SpriteSheet%20_43: -1664735614185801535
+      proprio_BadEnd%20SpriteSheet%20_44: 8780339436878247598
+      proprio_BadEnd%20SpriteSheet%20_45: -1508384458447689100
+      proprio_BadEnd%20SpriteSheet%20_46: 8627035047834945833
+      proprio_BadEnd%20SpriteSheet%20_5: 8977973123584214143
+      proprio_BadEnd%20SpriteSheet%20_6: 7077544471382862810
+      proprio_BadEnd%20SpriteSheet%20_7: -4961243626951837901
+      proprio_BadEnd%20SpriteSheet%20_8: -7912375876021685601
+      proprio_BadEnd%20SpriteSheet%20_9: -2607376861254117642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

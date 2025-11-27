@@ -24,16 +24,24 @@ public class CameraMovement : MonoBehaviour
         if (ChaseSequence == true)
         {
             transform.position = new Vector3(transform.position.x + 0.001f, transform.position.y, -10);
-            if (CamTime >= 5)
+            if (CamTime >= 10)
             {
                 CameraSpeed = BaseCameraSpeed + CamTime;
                 transform.position = new Vector3(transform.position.x + 0.001f + CameraSpeed/2000, transform.position.y, -10);
             }
         }
-        if (ChaseSequence == false)
+        /*if (ChaseSequence == false)
         {
             CamTime = 0;
             transform.position = new Vector3(PlayerMovement.Position.x, transform.position.y, -10);
+        }*/
+        if (Time.timeScale == 0f)
+        {
+            ChaseSequence = false;
+        }
+        else 
+        {
+            ChaseSequence = true;
         }
         
     }

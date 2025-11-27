@@ -7,12 +7,13 @@ public class PlayerHealth : MonoBehaviour
 {
     public static int playerHealth = 9;
     public Animator playerAnimator;
+    public Animator ownerAnimator;
     public float DeathTimer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void start()
     {
         playerAnimator = GetComponent<Animator>();
-        
+        //ownerAnimator =  Owner.GetComponent<Animation>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -25,6 +26,8 @@ public class PlayerHealth : MonoBehaviour
 
             playerHealth--;
             playerAnimator.SetTrigger("IsHit");
+            ownerAnimator.SetBool("TookDamage",true);
+
         }
         else if (playerHealth <= 1)
         {

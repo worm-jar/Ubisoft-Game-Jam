@@ -23,11 +23,11 @@ public class CameraMovement : MonoBehaviour
         CamTime = Time.time;
         if (ChaseSequence == true)
         {
-            transform.position = new Vector3(transform.position.x + 0.1f, transform.position.y, -10);
+            transform.position = new Vector3(transform.position.x + 0.001f, transform.position.y, -10);
             if (CamTime >= 5)
             {
                 CameraSpeed = BaseCameraSpeed + CamTime;
-                transform.position = new Vector3(transform.position.x + 0.1f + CameraSpeed/50, transform.position.y, -10);
+                transform.position = new Vector3(transform.position.x + 0.001f + CameraSpeed/2000, transform.position.y, -10);
             }
         }
         if (ChaseSequence == false)

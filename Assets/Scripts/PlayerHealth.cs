@@ -16,9 +16,13 @@ public class PlayerHealth : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.gameObject.CompareTag("OutOfBounds"))
+        {
+            SceneManager.LoadScene("DeathScreen");
+        }
         if (collision.gameObject.CompareTag("Enemy") && playerHealth > 1)
         {
-            
+
             playerHealth--;
             playerAnimator.SetTrigger("IsHit");
         }

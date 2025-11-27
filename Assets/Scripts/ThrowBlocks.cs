@@ -1,3 +1,4 @@
+using NUnit.Framework;
 using System.Collections;
 using UnityEngine;
 
@@ -8,6 +9,7 @@ public class ThrowBlocks : MonoBehaviour
     public GameObject Block;
     public float randNum;
     public Vector2 SpawnPos;
+    [SerializeField] public Sprite[] Sprites;
     void Start()
     {
         StartCoroutine(LauchBlocksWait());
@@ -16,16 +18,17 @@ public class ThrowBlocks : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     public IEnumerator LauchBlocksWait()
     {
+        yield return new WaitForSeconds(10f);
         while (true)
-        {
-            yield return new WaitForSeconds(3.5f);
-            randNum = Random.Range(-3.7f, 3.7f);
-            SpawnPos = new Vector2(Camera.transform.position.x - 12, randNum);
-            Instantiate(Block, SpawnPos, Quaternion.identity);
-        }
+            {
+                yield return new WaitForSeconds(3.5f);
+                randNum = Random.Range(-3.7f, 3.7f);
+                SpawnPos = new Vector2(Camera.transform.position.x - 12, randNum);
+                Instantiate(Block, SpawnPos, Quaternion.identity);
+            }
     }
 }

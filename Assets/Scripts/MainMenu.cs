@@ -9,6 +9,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene("TempestChase");
+        PlayerHealth.playerHealth = 9;
     }
 
     public void QuitGame()

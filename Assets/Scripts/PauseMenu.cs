@@ -8,20 +8,8 @@ using UnityEngine.SceneManagement;
 public class MenuPause : MonoBehaviour
 {
 
-    #region Attributs
-
     [SerializeField] private bool isPaused = false; // Permet de savoir si le jeu est en pause ou non.
     public GameObject pauseMenuObject;
-
-    #endregion
-
-    #region Proprietes
-    #endregion
-
-    #region Constructeur
-    #endregion
-
-    #region Methodes
 
     void Start()
     {
@@ -68,6 +56,7 @@ public class MenuPause : MonoBehaviour
         Time.timeScale = 1.0f;
         isPaused = false;
         SceneManager.LoadScene("MainMenu");
+        CameraMovement.ChaseSequence = false;
     }
 
     public void QuitMenu()
@@ -101,5 +90,4 @@ public class MenuPause : MonoBehaviour
         }
     }*/
 
-    #endregion
 }

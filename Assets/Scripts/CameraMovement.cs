@@ -20,7 +20,7 @@ public class CameraMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        CamTime = Time.time;
+        CamTime += Time.deltaTime;
         if (ChaseSequence == true)
         {
             transform.position = new Vector3(transform.position.x + 0.001f, transform.position.y, -10);
@@ -32,6 +32,7 @@ public class CameraMovement : MonoBehaviour
         }
         if (ChaseSequence == false)
         {
+            CamTime = 0;
             transform.position = new Vector3(PlayerMovement.Position.x, transform.position.y, -10);
         }
         

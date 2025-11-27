@@ -1,6 +1,6 @@
 using JetBrains.Annotations;
 using Unity.VisualScripting;
-using UnityEditor.Tilemaps;
+using UnityEngine.Tilemaps;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -32,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
         playerAnimator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
-
+    
     // Update is called once per frame
     private void FixedUpdate()
     {

@@ -26,7 +26,7 @@ public class PlayerHealth : MonoBehaviour
 
             playerHealth--;
             playerAnimator.SetTrigger("IsHit");
-            ownerAnimator.SetBool("TookDamage",true);
+            ownerAnimator.SetBool("TookDamage", true);
 
         }
         else if (playerHealth <= 1)

@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: de3e447fc1e4ada47b3c06cf06cd33b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -256304493825246890
+    second: silhouette_panicWalk%20SpriteSheet (1)_0
+  - first:
+      213: -2244927325413605876
+    second: silhouette_panicWalk%20SpriteSheet (1)_1
+  - first:
+      213: 227898157121633853
+    second: silhouette_panicWalk%20SpriteSheet (1)_2
+  - first:
+      213: 6253741416222696065
+    second: silhouette_panicWalk%20SpriteSheet (1)_3
+  - first:
+      213: 3983922107677233057
+    second: silhouette_panicWalk%20SpriteSheet (1)_4
+  - first:
+      213: 427109060632591908
+    second: silhouette_panicWalk%20SpriteSheet (1)_5
+  - first:
+      213: 617399273691426417
+    second: silhouette_panicWalk%20SpriteSheet (1)_6
+  - first:
+      213: -7087483182115367599
+    second: silhouette_panicWalk%20SpriteSheet (1)_7
+  - first:
+      213: 2211749186739468836
+    second: silhouette_panicWalk%20SpriteSheet (1)_8
+  - first:
+      213: -3678414045694173649
+    second: silhouette_panicWalk%20SpriteSheet (1)_9
+  - first:
+      213: 8568027387352641266
+    second: silhouette_panicWalk%20SpriteSheet (1)_10
+  - first:
+      213: 1388954600522719430
+    second: silhouette_panicWalk%20SpriteSheet (1)_11
+  - first:
+      213: -6382414427874123830
+    second: silhouette_panicWalk%20SpriteSheet (1)_12
+  - first:
+      213: 8913753890047940212
+    second: silhouette_panicWalk%20SpriteSheet (1)_13
+  - first:
+      213: -406649312622821715
+    second: silhouette_panicWalk%20SpriteSheet (1)_14
+  - first:
+      213: 4261912684641029131
+    second: silhouette_panicWalk%20SpriteSheet (1)_15
+  - first:
+      213: -2335003951267575009
+    second: silhouette_panicWalk%20SpriteSheet (1)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659b53bbb6c617cf0800000000000000
+      internalID: -256304493825246890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e772edd7a68d0e0800000000000000
+      internalID: -2244927325413605876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e733c9a28a92300800000000000000
+      internalID: 227898157121633853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822a1f2fa0c9c650800000000000000
+      internalID: 6253741416222696065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4de89c0cb94730800000000000000
+      internalID: 3983922107677233057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3b5f7d656de500800000000000000
+      internalID: 427109060632591908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e26f84e51719800800000000000000
+      internalID: 617399273691426417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1555572d89334ad90800000000000000
+      internalID: -7087483182115367599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a7ddfba26b1be10800000000000000
+      internalID: 2211749186739468836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e579d1ae5a3fcc0800000000000000
+      internalID: -3678414045694173649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee8f0738fb7e670800000000000000
+      internalID: 8568027387352641266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c02d45a9de864310800000000000000
+      internalID: 1388954600522719430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf1c31b4eb1d67a0800000000000000
+      internalID: -6382414427874123830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47650979fe304bb70800000000000000
+      internalID: 8913753890047940212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb5fcca9a4b5af0800000000000000
+      internalID: -406649312622821715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c82cf810b552b30800000000000000
+      internalID: 4261912684641029131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silhouette_panicWalk%20SpriteSheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b00971746689fd0800000000000000
+      internalID: -2335003951267575009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24b38edfdf5d8ab40837586bbdf7509f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      silhouette_panicWalk%20SpriteSheet (1)_0: -256304493825246890
+      silhouette_panicWalk%20SpriteSheet (1)_1: -2244927325413605876
+      silhouette_panicWalk%20SpriteSheet (1)_10: 8568027387352641266
+      silhouette_panicWalk%20SpriteSheet (1)_11: 1388954600522719430
+      silhouette_panicWalk%20SpriteSheet (1)_12: -6382414427874123830
+      silhouette_panicWalk%20SpriteSheet (1)_13: 8913753890047940212
+      silhouette_panicWalk%20SpriteSheet (1)_14: -406649312622821715
+      silhouette_panicWalk%20SpriteSheet (1)_15: 4261912684641029131
+      silhouette_panicWalk%20SpriteSheet (1)_16: -2335003951267575009
+      silhouette_panicWalk%20SpriteSheet (1)_2: 227898157121633853
+      silhouette_panicWalk%20SpriteSheet (1)_3: 6253741416222696065
+      silhouette_panicWalk%20SpriteSheet (1)_4: 3983922107677233057
+      silhouette_panicWalk%20SpriteSheet (1)_5: 427109060632591908
+      silhouette_panicWalk%20SpriteSheet (1)_6: 617399273691426417
+      silhouette_panicWalk%20SpriteSheet (1)_7: -7087483182115367599
+      silhouette_panicWalk%20SpriteSheet (1)_8: 2211749186739468836
+      silhouette_panicWalk%20SpriteSheet (1)_9: -3678414045694173649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

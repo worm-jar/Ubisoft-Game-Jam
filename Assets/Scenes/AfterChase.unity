@@ -1054,7 +1054,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 292722027}
+  m_GameObject: {fileID: 227109576}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -1073,7 +1073,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 292722027}
+  m_GameObject: {fileID: 227109576}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -1155,7 +1155,7 @@ MonoBehaviour:
   m_margin: {x: 81.69461, y: 15.851471, z: 84.17036, w: 17.108458}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &292722030
@@ -1164,7 +1164,7 @@ CanvasRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 292722027}
+  m_GameObject: {fileID: 227109576}
   m_CullTransparentMesh: 1
 --- !u!1 &381000672
 GameObject:
@@ -4256,7 +4256,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1340745611}
   m_CullTransparentMesh: 1
---- !u!1 &1347870629
 --- !u!1001 &1347143634
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4322,6 +4321,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cddaa8d4e7ea2c54a9e88a0266d88c0c, type: 3}
+--- !u!1 &1347870629
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4330,13 +4330,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1347870632}
-  - component: {fileID: 1347870631}
   - component: {fileID: 1347870630}
+  - component: {fileID: 1347870631}
   - component: {fileID: 1347870633}
   - component: {fileID: 1347870634}
   m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
+  m_Name: MainCamera
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6584,10 +6584,6 @@ SceneRoots:
   - {fileID: 799364868}
   - {fileID: 126870666}
   - {fileID: 381000675}
-  - {fileID: 1403680326}
-  - {fileID: 1862056775}
-  - {fileID: 1248978286}
-  - {fileID: 1011483411}
   - {fileID: 2101710744}
   - {fileID: 1821971985}
   - {fileID: 1284045875}
@@ -6601,3 +6597,13 @@ SceneRoots:
   - {fileID: 401393571}
   - {fileID: 2043880311}
   - {fileID: 1347143634}
+  - {fileID: 47663165}
+  - {fileID: 118695641}
+  - {fileID: 1069359264}
+  - {fileID: 1288060113}
+  - {fileID: 1376621433}
+  - {fileID: 1532416377}
+  - {fileID: 1707642424}
+  - {fileID: 2027240688}
+  - {fileID: 2051951895}
+  - {fileID: 2127434212}

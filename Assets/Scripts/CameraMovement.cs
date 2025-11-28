@@ -34,7 +34,7 @@ public class CameraMovement : MonoBehaviour
             if (CamTime >= 7)
             {
                 CameraSpeed = BaseCameraSpeed + CamTime;
-                transform.position = new Vector3(transform.position.x + 0.001f + CameraSpeed/2000, transform.position.y, -10);
+                transform.position = new Vector3(transform.position.x + 0.001f + CameraSpeed/1750, transform.position.y, -10);
             }
         }
         /*if (ChaseSequence == false)

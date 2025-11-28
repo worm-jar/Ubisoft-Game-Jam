@@ -23,7 +23,7 @@ public class ThrowBlocks : MonoBehaviour
     }
     public IEnumerator LauchBlocksWait()
     {
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(7f);
         while (true)
             {
                 yield return new WaitForSeconds(3.5f);

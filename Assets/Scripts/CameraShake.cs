@@ -16,7 +16,7 @@ public class CameraShake : MonoBehaviour
     void Update()
     {
         ShakeTime += Time.deltaTime;
-        if (ShakeTime >= 10)
+        if (ShakeTime >= 7)
         {
             if (shakeTimer > 0)
             {

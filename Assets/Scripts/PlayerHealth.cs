@@ -9,8 +9,10 @@ public class PlayerHealth : MonoBehaviour
     public Animator playerAnimator;
     public Animator ownerAnimator;
     public float DeathTimer;
+    public float EndTimer;
+    public bool end;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void start()
+    void Start()
     {
         playerAnimator = GetComponent<Animator>();
         //ownerAnimator =  Owner.GetComponent<Animation>();
@@ -21,12 +23,24 @@ public class PlayerHealth : MonoBehaviour
         {
             SceneManager.LoadScene("DeathScreen");
         }
+        if (collision.gameObject.CompareTag("End"))
+        {
+            end = true;
+            if (playerHealth == 9)
+            {
+                ownerAnimator.SetTrigger("GoodEnd");
+            }
+            else
+            {
+                ownerAnimator.SetTrigger("BadEnd");
+            }
+            
+        }
         if (collision.gameObject.CompareTag("Enemy") && playerHealth > 1)
         {
 
             playerHealth--;
             playerAnimator.SetTrigger("IsHit");
-            ownerAnimator.SetBool("TookDamage", true);
 
         }
         else if (playerHealth <= 1)
@@ -50,6 +64,14 @@ public class PlayerHealth : MonoBehaviour
         if (DeathTimer <= 0)
         {
             SceneManager.LoadScene("DeathScreen");
+        }
+        if (end == true)
+        {
+            EndTimer -= Time.deltaTime;
+        }
+        if (EndTimer <= 0)
+        {
+            SceneManager.LoadScene("EndGame");
         }
     }
 }

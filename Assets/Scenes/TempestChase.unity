@@ -6741,6 +6741,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8183257332703450600, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
+      propertyPath: EndTimer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8183257332703450600, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
       propertyPath: DeathTimer
       value: 2.5
       objectReference: {fileID: 0}

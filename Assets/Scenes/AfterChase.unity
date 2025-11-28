@@ -1660,7 +1660,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1178783776}
+      - m_Target: {fileID: 1347870636}
         m_TargetAssemblyTypeName: MenuPause, Assembly-CSharp
         m_MethodName: ResumeGame
         m_Mode: 1
@@ -2358,7 +2358,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1178783776}
+      - m_Target: {fileID: 1347870636}
         m_TargetAssemblyTypeName: MenuPause, Assembly-CSharp
         m_MethodName: MainMenu
         m_Mode: 1
@@ -3873,10 +3873,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4456307881924045269, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1178783776}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
 --- !u!1 &1178783774 stripped
 GameObject:
@@ -3888,20 +3885,6 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 2365482273238600167, guid: 101ef2304c96c8d46bc6e0e296235188, type: 3}
   m_PrefabInstance: {fileID: 1178783773}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1178783776
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1178783774}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b6ddc6245781a74f90c12f2863ae7e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MenuPause
-  isPaused: 0
-  pauseMenuObject: {fileID: 0}
 --- !u!1 &1264666099
 GameObject:
   m_ObjectHideFlags: 0
@@ -4481,6 +4464,7 @@ GameObject:
   - component: {fileID: 1347870633}
   - component: {fileID: 1347870634}
   - component: {fileID: 1347870635}
+  - component: {fileID: 1347870636}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: Untagged
@@ -4716,6 +4700,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1347870636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347870629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6ddc6245781a74f90c12f2863ae7e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MenuPause
+  isPaused: 0
+  pauseMenuObject: {fileID: 1931581695}
 --- !u!1 &1376621431
 GameObject:
   m_ObjectHideFlags: 0
@@ -5782,9 +5780,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027240687}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 187.21776, y: 65.92238, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.55094, y: 0.0388, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 637278015}
@@ -6222,7 +6220,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1178783776}
+      - m_Target: {fileID: 1347870636}
         m_TargetAssemblyTypeName: MenuPause, Assembly-CSharp
         m_MethodName: QuitMenu
         m_Mode: 1
@@ -6753,7 +6751,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1931581695}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -6823,6 +6821,7 @@ SceneRoots:
   - {fileID: 2106461386}
   - {fileID: 1403793672}
   - {fileID: 1931581696}
+  - {fileID: 2027240688}
   - {fileID: 817141156}
   - {fileID: 174568204}
   - {fileID: 799364868}
@@ -6848,7 +6847,6 @@ SceneRoots:
   - {fileID: 1376621433}
   - {fileID: 1532416377}
   - {fileID: 1707642424}
-  - {fileID: 2027240688}
   - {fileID: 2051951895}
   - {fileID: 2127434212}
   - {fileID: 137485046}
